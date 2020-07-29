@@ -7,5 +7,5 @@ I'm an aspiring engineer trying to nurture my programming and algorithmic skills
 ## Find me around the web 🌎: 
 - Sharing updates on <a href="https://www.linkedin.com/in/vivek080/">LinkedIn</a> 💼
 - Know more about me on <a href="https://vivek080.github.io">vivek080.github.io/</a> 🌐
-- Interact with me on Instagram <a href="https://www.instagram.com/vivek_hiremath_"> Instagram</a> <img src="https://raw.githubusercontent.com/vivek080/vivek080/master/instagram.png" style="width:15px;">
+- Interact with me on Instagram <a href="https://www.instagram.com/vivek_hiremath_"> Instagram</a> <img src="https://raw.githubusercontent.com/vivek080/vivek080/master/instagram.png" style="width:15px!important;">
 
