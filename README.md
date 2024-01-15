@@ -1,7 +1,7 @@
 # Hi, I'm Vivek Hiremath 👋👨‍💻
 
-<img src="https://raw.githubusercontent.com/vivek080/vivek080/master/Vivek_Hiremath.png" alt="banner that says Vivek Hiremath - software engineer, Full Stack Engineer, Web Developer, Python Developer">
-I'm an aspiring engineer trying to nurture my programming and algorithmic skills and always keen to solve innovative and challenging kinds of stuff. I have a keen interest in Python and Full-Stack development. I have worked on a couple of projects related to these areas.
+<img src="https://raw.githubusercontent.com/vivek080/vivek080/master/vivek-hiremath.png" alt="banner that says Vivek Hiremath - Software Engineer, Golang (GO) Developer, Backend Engineer">
+I'm an aspiring engineer trying to nurture my programming and algorithmic skills and always keen to solve innovative and challenging kinds of stuff. I have a keen interest in Golang (Go), MongoDB, AWS and Python. I have worked on a couple of projects related to these areas.
 
 
 ## Find me around the web 🌎: 
